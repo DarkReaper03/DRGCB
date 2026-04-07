@@ -35,8 +35,8 @@ A multipurpose Discord bot built on **Node.js** and **Discord.js v14**, powered 
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/unified-bot.git
-cd unified-bot
+git clone https://github.com/DarkReaper03/DRGCB.git
+cd DRGCB
 ```
 
 ### 2. Install dependencies
