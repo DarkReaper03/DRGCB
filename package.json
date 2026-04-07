@@ -1,0 +1,31 @@
+{
+  "name": "unified-discord-bot",
+  "version": "1.0.0",
+  "description": "Unified Discord bot — Nitradis, Tism Land, Link Watcher, Dayz Watcher, Dissconnect + expanded features",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.19.2",
+    "@iamtraction/google-translate": "^2.0.0",
+    "@napi-rs/canvas": "^0.1.0",
+    "axios": "^1.6.0",
+    "canvacord": "^5.4.8",
+    "discord-giveaways": "^6.0.1",
+    "discord.js": "^14.0.0",
+    "dotenv": "^16.0.0",
+    "gamedig": "^3.0.0",
+    "js-levenshtein": "^1.1.6",
+    "lavalink-client": "^2.0.0",
+    "mathjs": "^12.0.0",
+    "moment": "^2.29.0",
+    "ms": "^2.1.3",
+    "node-cron": "^3.0.0",
+    "sequelize": "^6.0.0",
+    "sqlite3": "^5.0.0",
+    "undici": "^5.0.0",
+    "weather-js": "^2.0.0"
+  }
+}

@@ -1,0 +1,91 @@
+// =============================================
+// Song Pool — used by /random and autoplay
+// Queries are sent directly to SoundCloud search
+// Add or remove songs freely — keep them SoundCloud-friendly
+// =============================================
+
+module.exports = [
+	// Hip-Hop / Rap
+	'Drake - God\'s Plan',
+	'Drake - Hotline Bling',
+	'Kendrick Lamar - HUMBLE.',
+	'Kendrick Lamar - Not Like Us',
+	'Post Malone - Circles',
+	'Post Malone - Sunflower',
+	'Travis Scott - SICKO MODE',
+	'Travis Scott - Goosebumps',
+	'J. Cole - No Role Modelz',
+	'J. Cole - Love Yourz',
+	'Future - Mask Off',
+	'21 Savage - a lot',
+	'Lil Baby - Drip Too Hard',
+	'Cardi B - Bodak Yellow',
+	'Nicki Minaj - Super Bass',
+	'Eminem - Lose Yourself',
+	'Eminem - Without Me',
+	'Eminem - Rap God',
+	'Juice WRLD - Lucid Dreams',
+	'Juice WRLD - All Girls Are the Same',
+	'XXXTentacion - SAD!',
+	'Lil Uzi Vert - XO Tour Llif3',
+
+	// Pop
+	'The Weeknd - Blinding Lights',
+	'The Weeknd - Starboy',
+	'The Weeknd - Save Your Tears',
+	'Dua Lipa - Levitating',
+	'Dua Lipa - Don\'t Start Now',
+	'Billie Eilish - bad guy',
+	'Billie Eilish - Happier Than Ever',
+	'Ariana Grande - 7 rings',
+	'Ariana Grande - thank u next',
+	'Taylor Swift - Anti-Hero',
+	'Taylor Swift - Shake It Off',
+	'Ed Sheeran - Shape of You',
+	'Ed Sheeran - Perfect',
+	'Harry Styles - As It Was',
+	'Olivia Rodrigo - drivers license',
+	'Olivia Rodrigo - good 4 u',
+	'Justin Bieber - Peaches',
+	'Justin Bieber - Sorry',
+	'Shawn Mendes - Stitches',
+	'Camila Cabello - Havana',
+
+	// R&B / Soul
+	'SZA - Kill Bill',
+	'SZA - Good Days',
+	'Frank Ocean - Nights',
+	'Frank Ocean - Chanel',
+	'Daniel Caesar - Best Part',
+	'H.E.R. - Focus',
+	'Khalid - Location',
+	'Khalid - Young Dumb Broke',
+	'Summer Walker - Over It',
+	'Bryson Tiller - Exchange',
+
+	// Rock / Alt
+	'Imagine Dragons - Demons',
+	'Imagine Dragons - Believer',
+	'Twenty One Pilots - Stressed Out',
+	'Twenty One Pilots - Ride',
+	'Arctic Monkeys - Do I Wanna Know',
+	'Arctic Monkeys - R U Mine',
+	'Linkin Park - Numb',
+	'Linkin Park - In The End',
+	'Coldplay - The Scientist',
+	'Coldplay - Yellow',
+	'Red Hot Chili Peppers - Under the Bridge',
+	'Nirvana - Come as You Are',
+
+	// Electronic / EDM
+	'Calvin Harris - Summer',
+	'Calvin Harris - This Is What You Came For',
+	'Martin Garrix - Animals',
+	'Marshmello - Alone',
+	'Zedd - Beautiful Now',
+	'The Chainsmokers - Closer',
+	'Kygo - Firestone',
+	'Avicii - Wake Me Up',
+	'Avicii - Levels',
+	'Alan Walker - Faded',
+];
